@@ -1,0 +1,38 @@
+nav .btn {
+  text-shadow: 6px 3px 2px rgba(0, 0, 0, 0.5);
+  margin-left: 250px;
+  float: center;
+ }
+
+ .btn {
+  padding: 10px 20px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 25px;
+  font-family: Helvetica;
+  background-color: rgb(54, 103, 103)
+  }
+
+header {
+  font-size: 55px;
+  color: rgb(103, 102, 102);
+  font-family: Helvetica;
+  margin-left: 350px;
+}
+#header2 {
+  font-size: 55px;
+  color: rgb(103, 102, 102);
+  font-family: Helvetica;
+  margin-left: 400px;
+}
+
+.photo {
+  margin-left: 233px;
+}
+.photo2 {
+  margin-left: 325px;
+}
+
+#paragraph {
+  margin: 10px 500px 10px 250px;
+}
